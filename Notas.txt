@@ -1,0 +1,15 @@
+Aula 029072024
+-------------------------
+
+# Bootstrap 5 --> Framework (html,css,js) para criação de responsivos, gratuito;
+
+# Acesse: https://getbootstrap.com/ ,
+# Depois: Include via CDN e copiar no head(cabeçalho);
+
+-------------------------------------------------------------------------------
+
+# No VScode, na parte de extensões, baixe: bootstrap class autocomplete;
+
+--------------------------------------------------------------------------------
+
+# 1REM = 16px;
